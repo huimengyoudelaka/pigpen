@@ -25,13 +25,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
-    qaz.cpp
+        mainwindow.cpp
 
 HEADERS += \
-        mainwindow.h \
-    qaz.h
+        mainwindow.h
 
 FORMS += \
-        mainwindow.ui \
-    qaz.ui
+        mainwindow.ui
+
+RESOURCES += \
+    res.qrc

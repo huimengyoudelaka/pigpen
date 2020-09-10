@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res.qrc</file>
+        <file>pig2.png</file>
+        <file>tubiao.png</file>
+    </qresource>
+    <qresource prefix="/n"/>
+</RCC>
